@@ -1,0 +1,303 @@
+{
+  "DB_ID": 1,
+  "FormatVersion": 0,
+  "MemberRecords": [
+    {
+      "Member_DBID": 798,
+      "Member_GUID": "08b974d6-8046-4b44-94de-c7ff22700dbb",
+      "MemberType": "Ship",
+      "MemberName": "DDG 51 Arleigh Burke [Arleigh Burke Flight I]",
+      "ParentGroupName": "Carrier Group",
+      "Longitude": -26.575169083235213,
+      "Latitude": 55.16110254562556,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": []
+    },
+    {
+      "Member_DBID": 458,
+      "Member_GUID": "7f8e1002-1118-44c8-8edb-80b1b9728643",
+      "MemberType": "Ship",
+      "MemberName": "AOE 8 Arctic",
+      "ParentGroupName": "Carrier Group",
+      "Longitude": -26.430928305108647,
+      "Latitude": 55.190101347101361,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": []
+    },
+    {
+      "Member_DBID": 798,
+      "Member_GUID": "838824fa-b069-4f49-9c3b-507afd481abe",
+      "MemberType": "Ship",
+      "MemberName": "DDG 51 Arleigh Burke [Arleigh Burke Flight I]",
+      "ParentGroupName": "Carrier Group",
+      "Longitude": -26.392302963088031,
+      "Latitude": 55.266112413658213,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": []
+    },
+    {
+      "Member_DBID": 780,
+      "Member_GUID": "f06eca3f-d684-417f-bf4c-b35dbf494d16",
+      "MemberType": "Ship",
+      "MemberName": "CVN 65 Enterprise",
+      "ParentGroupName": "Carrier Group",
+      "Longitude": -26.480545320375086,
+      "Latitude": 55.214107377982224,
+      "Altitude": 0.0,
+      "LoadoutID": 0,
+      "Orientation": 0.0,
+      "HostedAircraftRecords": [
+        {
+          "Name": "Stallions #3",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Stallions #2",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Stallions #4",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Stallions #1",
+          "AC_DBID": 1986,
+          "Loadout_ID": 3,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #9",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #11",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #3",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cat #2",
+          "AC_DBID": 2249,
+          "Loadout_ID": 1409,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #5",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Hawks #4",
+          "AC_DBID": 577,
+          "Loadout_ID": 13562,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #7",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Hawks #1",
+          "AC_DBID": 694,
+          "Loadout_ID": 8063,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #1",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #12",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #10",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #1",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #4",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #12",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Hawks #2",
+          "AC_DBID": 577,
+          "Loadout_ID": 13562,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #8",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #2",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #9",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #11",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #3",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #6",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Hawks #1",
+          "AC_DBID": 577,
+          "Loadout_ID": 13562,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Tanker #2",
+          "AC_DBID": 241,
+          "Loadout_ID": 26,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #4",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #5",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #6",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Tanker #1",
+          "AC_DBID": 241,
+          "Loadout_ID": 26,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cat #1",
+          "AC_DBID": 2249,
+          "Loadout_ID": 1409,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Hawks #3",
+          "AC_DBID": 577,
+          "Loadout_ID": 13562,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #7",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Killers #8",
+          "AC_DBID": 553,
+          "Loadout_ID": 15494,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #10",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Cougars #2",
+          "AC_DBID": 1518,
+          "Loadout_ID": 18818,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Hawks #4",
+          "AC_DBID": 694,
+          "Loadout_ID": 8063,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Hawks #3",
+          "AC_DBID": 694,
+          "Loadout_ID": 8063,
+          "ReadyTime_Mins": 0
+        },
+        {
+          "Name": "Hawks #2",
+          "AC_DBID": 694,
+          "Loadout_ID": 8063,
+          "ReadyTime_Mins": 0
+        }
+      ]
+    }
+  ],
+  "ValidFrom": "",
+  "ValidUntil": "",
+  "Name": "US Carrier Group",
+  "Comments": "My first carrier group, unrealistic and dunno how the magazines are working etc.\r\n\r\n12-20-15"
+}
